@@ -9,9 +9,9 @@
 <p align="center"> <a href="https://twitter.com/vincenteliezer" target="blank"><img src="https://img.shields.io/twitter/follow/vincenteliezer?logo=twitter&style=for-the-badge" alt="vincenteliezer" /></a> </p>
 <hr>
 
-<p align="center">🔭 I’m currently working on **Qwarqo**</p> 
+<p align="center">🔭 I’m currently building <b>Qwarqo (Real Estate Platform)</b></p> 
 
-<p align="center">🌱 I’m currently learning **React, Kotlin and javascript**</p> 
+<p align="center">🌱 I’m currently learning React, Kotlin and Javascript </p> 
 
 <p align="center">📝 I regularly write articles on [https://dev.to/vincenteliezer](https://dev.to/vincenteliezer)</p> 
 
