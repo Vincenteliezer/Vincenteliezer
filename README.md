@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hello, folks, Am Vincent Eliezer!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<h3 align="center">A passionate frontend developer from kenya</h3>
+<h3 align="center">A Passionate Front-end Developer From Kenya</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vincenteliezer&label=Profile%20views&color=0e75b6&style=flat" alt="vincenteliezer" /> </p>
 
