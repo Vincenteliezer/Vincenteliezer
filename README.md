@@ -1,5 +1,5 @@
 <h1>Hi There, I am <a  href="https://vincenteliezer.github.io/">Vincent Eliezer</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-![git](https://user-images.githubusercontent.com/80811007/170245724-ae73dcf1-98a1-4f88-a776-d3080f1cfc3b.png)
+<img src="/git.png">
 
 ## Web and Android Developer
 
