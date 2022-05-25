@@ -8,27 +8,6 @@
 
 <p align="center"> <a href="https://twitter.com/vincenteliezer" target="blank"><img src="https://img.shields.io/twitter/follow/vincenteliezer?logo=twitter&style=for-the-badge" alt="vincenteliezer" /></a> </p>
 <hr>
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
-
-------
-
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/dev.to/vincenteliezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/vincenteliezer" height="30" width="40" /></a>
