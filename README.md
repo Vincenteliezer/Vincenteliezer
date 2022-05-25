@@ -1,8 +1,6 @@
 <h1>Hi There, I am <a  href="https://vincenteliezer.github.io/">Vincent Eliezer</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img src="/git.png">
 
-## Web and Android Developer
-
 ![](https://github-readme-stats.vercel.app/api?username=vincenteliezer&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vincenteliezer&theme=great-gatsby&hide_border=false)<br/>
 
