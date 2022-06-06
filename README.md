@@ -1,6 +1,6 @@
 <h1>Hi There, I am <a  href="https://vincenteliezer.github.io/">Vincent Eliezer</a> 
   
-<img src="git.png">
+<img src="git.png" alt="">
   
 ![](https://github-readme-stats.vercel.app/api?username=vincenteliezer&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vincenteliezer&theme=great-gatsby&hide_border=false)<br/>
