@@ -1,4 +1,4 @@
-<h1>Hi There, I am <a  href="https://vincenteliezer.github.io/">Vincent Eliezer</a> 
+<h1>Hi There, I am <a  href="https://twitter.com/vincenteliezer/">Vincent Eliezer</a> 
   
 <img src="git.png" alt="">
   
