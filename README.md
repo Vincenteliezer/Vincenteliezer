@@ -1,8 +1,8 @@
 <h1>Hi There, I am <a  href="https://twitter.com/vincenteliezer/">Vincent Eliezer</a> 
-  <h4>A tech enthusiast, full-time programmer. I do build some really cool piece of shit Majoring on Front-End With Javascript | ReactJs.</h4> 
+  <h4>A Tech Enthusiast, Full-time Programmer. I Do Build Some Really Cool Piece Of Shit Majoring on Front-End With Javascript | ReactJs.</h4> 
    <h4>Android Development With React Native & Ionic Framework</h4>
   <p>Bootstrap | Material Design | Bootstrap material Design | Tailwind | Material CSS | Vuetify | Foundation | Uber Base.</p>
-  <p>Learning VueJs and Kotlin</p>
+  <p>Learning VueJs | Kotlin & Laravel</p>
   
   
 <img src="git.png" alt="">
