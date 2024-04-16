@@ -1,17 +1,5 @@
 # Hi there Am Vincenteliezer👋
 
-🔭 I’m currently working on: Revenue Generation,  Analytics and Sensor Data Platform, also building QUEPAYAPP - A pay-as-you-go hardware solution for automated systems e.g vending machines, automated dispensers and paid-access control systems and QWARQO - A real estate platform where you can not only search for your dream property but also connect, interact, and share your thoughts just like your favorite social network. With the aim of making real estate personal and interactive.
-
-🌱 I’m currently learning: Cloud Engineering/Computing, IoT and IT Governance.
-
-👯 I’m looking to collaborate on Enterprise projects, IoT projects, Android projects, and product design and architecture.
-
-😄 Pronouns: He/Him/Techbro.
-
-💬 Ask me about: Getting Into Tech & Software Engineering.
-
-⚡ Fun fact: The term "debugging" in software engineering originated from an actual insect. In 1947, computer scientist Grace Hopper traced an error in the Harvard Mark II computer to a moth trapped in a relay, coining the term "debugging.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincenteliezer/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://vincenteliezer.medium.com/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/vincenteliezer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCdEkGqFsx9Hf7aNIuJlFkEQ) 
 
